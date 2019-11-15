@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://luckbecky.github.io/</id>
     <title>林木子果</title>
-    <updated>2019-11-15T02:16:34.854Z</updated>
+    <updated>2019-11-15T06:39:05.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://luckbecky.github.io/"/>
     <link rel="self" href="https://luckbecky.github.io//atom.xml"/>
@@ -11,29 +11,36 @@
     <icon>https://luckbecky.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 林木子果</rights>
     <entry>
-        <title type="html"><![CDATA[联系我]]></title>
-        <id>https://luckbecky.github.io//post/contact</id>
-        <link href="https://luckbecky.github.io//post/contact">
+        <title type="html"><![CDATA[表情包设计]]></title>
+        <id>https://luckbecky.github.io//post/biao-qing-bao-she-ji</id>
+        <link href="https://luckbecky.github.io//post/biao-qing-bao-she-ji">
         </link>
-        <updated>2019-11-15T01:59:17.000Z</updated>
-        <content type="html"><![CDATA[<p>邮箱：linmuziguo@139.com<br>
-B站：林木子果<br>
-微信公众号：简报丫</p>
+        <updated>2019-11-15T06:34:37.000Z</updated>
+        <content type="html"><![CDATA[<p>微信表情包：蘑小菇小朋友<br>
+<img src="https://luckbecky.github.io//post-images/1573799699906.jpg" alt=""></p>
+<p>微信表情包：我家有个包子<br>
+<img src="https://luckbecky.github.io//post-images/1573799705883.jpg" alt=""></p>
+<p>微信表情包：垃圾分类包<br>
+<img src="https://luckbecky.github.io//post-images/1573799712427.jpg" alt=""></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[APP设计]]></title>
+        <title type="html"><![CDATA[UI设计]]></title>
         <id>https://luckbecky.github.io//post/app-jie-mian</id>
         <link href="https://luckbecky.github.io//post/app-jie-mian">
         </link>
         <updated>2019-11-14T13:59:24.000Z</updated>
         <content type="html"><![CDATA[<p>2019</p>
+<h1 id="app界面设计">APP界面设计</h1>
 <p><img src="https://luckbecky.github.io//post-images/1573740036756.png" alt=""><br>
 <img src="https://luckbecky.github.io//post-images/1573740041385.jpg" alt=""><br>
 <img src="https://luckbecky.github.io//post-images/1573740045697.jpg" alt=""><br>
 <img src="https://luckbecky.github.io//post-images/1573740049815.jpg" alt=""><br>
 <img src="https://luckbecky.github.io//post-images/1573740053821.jpg" alt=""><br>
 <img src="https://luckbecky.github.io//post-images/1573740057663.jpg" alt=""></p>
+<p>图标设计<br>
+<img src="https://luckbecky.github.io//post-images/1573799609385.jpg" alt=""><br>
+<img src="https://luckbecky.github.io//post-images/1573799616036.jpg" alt=""></p>
 ]]></content>
     </entry>
     <entry>
@@ -49,6 +56,7 @@ B站：林木子果<br>
 <p><img src="https://luckbecky.github.io//post-images/1573739939143.jpg" alt=""><br>
 <img src="https://luckbecky.github.io//post-images/1573739944337.jpg" alt=""><br>
 <img src="https://luckbecky.github.io//post-images/1573739949092.jpg" alt=""></p>
+<figure data-type="image" tabindex="1"><img src="https://luckbecky.github.io//post-images/1573799636347.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
@@ -98,21 +106,6 @@ B站：林木子果<br>
 <figure data-type="image" tabindex="3"><img src="https://luckbecky.github.io//post-images/1573782058630.jpg" alt=""></figure>
 <h1 id="美食官网">美食官网</h1>
 <figure data-type="image" tabindex="4"><img src="https://luckbecky.github.io//post-images/1573782077042.jpg" alt=""></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于我]]></title>
-        <id>https://luckbecky.github.io//post/about</id>
-        <link href="https://luckbecky.github.io//post/about">
-        </link>
-        <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小木屋呀，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<h2 id="独立设计师摄影师b站up主表情包达人">👨‍💻 独立设计师，摄影师，B站UP主，表情包达人</h2>
-<h2 id="运动摄影摄像绘画">⛹ 运动，摄影摄像，绘画</h2>
-<h2 id="邮箱linmuziguo139com-b站林木子果-微信公众号简报丫">📬 邮箱：linmuziguo@139.com / B站：林木子果 / 微信公众号：简报丫</h2>
 ]]></content>
     </entry>
 </feed>
